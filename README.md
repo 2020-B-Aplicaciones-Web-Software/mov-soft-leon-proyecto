@@ -1,5 +1,5 @@
 # Proyecto Primer Bimestre - Aplicación de Vacunación
-Aplicación móvil para la gestión de vacunacióon en el Ecuador.
+Aplicación móvil para la gestión de vacunación en el Ecuador.
 ##Documentación
 Para la primera entrega se han solicitado los siguientes artefactos
 - [Historia de usuario](https://github.com/2020-B-Aplicaciones-Web-Software/mov-soft-leon-proyecto/blob/main/Historias%20de%20Usuario.pdf)
